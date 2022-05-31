@@ -1,1 +1,1 @@
-![Open Source at Uzinfocom](https://github.com/uzinfocom-org/.github/blob/main/images/banner.png) 
+![Open Source at Uzinfocom](https://github.com/uzinfocom-org/.github/blob/main/images/banners.png) 
