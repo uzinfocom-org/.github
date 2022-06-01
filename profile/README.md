@@ -2,4 +2,4 @@
 
 <p align="center"><h1 align="center">Open Source @ Uzinfocom</h1></p>
 
-<p align="center">CCTLD | <a href="https://t.me/xinuxuz">Xinux</a></p>
+<p align="center"><a href="https://t.me/cctlduz">CCTLD</a> | <a href="https://t.me/xinuxuz">Xinux</a></p>
