@@ -7,6 +7,6 @@
 <p>
   <a href="https://xinux.uz"><img src="https://github.com/uzinfocom-org/.github/blob/main/images/xinux-banner.png" width=48% alt="Xinux Community"></a>
   &nbsp;&nbsp;&nbsp;
-  <!-- <a href="https://github.com/genemators"><img src="./assets/Trophy 2.png" width=48% alt="10 years of experience"></a> -->
+  <a href="https://cctld.uz"><img src="https://github.com/uzinfocom-org/.github/blob/main/images/cctld-banner.png" width=48% alt="ccTLDuz Administration"></a>
 </p>
 
