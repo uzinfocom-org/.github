@@ -9,3 +9,9 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://cctld.uz"><img src="https://github.com/uzinfocom-org/.github/blob/main/images/cctld-banner.png" width=48% alt="ccTLDuz Administration"></a>
 </p>
+
+<p align="center">
+  <a href="https://osmon.dev"><img src="https://github.com/uzinfocom-org/.github/blob/main/images/osmon.png" width=48% alt="Osmon Lang"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/orgs/uzinfocom-org/discussions"><img src="https://github.com/uzinfocom-org/.github/blob/main/images/new.png" width=48% alt="Join us!"></a>
+</p>
