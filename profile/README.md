@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://osmon.dev"><img src="https://github.com/uzinfocom-org/.github/blob/main/images/osmon.png" width=48% alt="Osmon Lang"></a>
+  <a href="https://korrektor.uz"><img src="https://github.com/uzinfocom-org/.github/blob/main/images/korrektor.png" width=48% alt="Korrektor"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/orgs/uzinfocom-org/discussions"><img src="https://github.com/uzinfocom-org/.github/blob/main/images/new.png" width=48% alt="Join us!"></a>
+  <a href="https://osmon.dev"><img src="https://github.com/uzinfocom-org/.github/blob/main/images/osmon.png" width=48% alt="Osmon Lang"></a>
 </p>
