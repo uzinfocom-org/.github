@@ -13,5 +13,5 @@
 <p align="center">
   <a href="https://korrektor.uz"><img src="https://github.com/uzinfocom-org/.github/blob/main/images/korrektor.png" width=48% alt="Korrektor"></a>
   &nbsp;&nbsp;&nbsp;
-  <!-- <a href="https://korrektor.uz"><img src="https://github.com/uzinfocom-org/.github/blob/main/images/korrektor.png" width=48% alt="Korrektor"></a> -->
+  <a href="https://github.com/orgs/uzinfocom-org/discussions/1"><img src="https://github.com/uzinfocom-org/.github/blob/main/images/new.png" width=48% alt="Join us"></a>
 </p>
