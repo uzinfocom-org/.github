@@ -13,5 +13,5 @@
 <p align="center">
   <a href="https://korrektor.uz"><img src="https://github.com/uzinfocom-org/.github/blob/main/images/korrektor.png" width=48% alt="Korrektor"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://osmon-lang.uz"><img src="https://github.com/uzinfocom-org/.github/blob/main/images/osmon.png" width=48% alt="Osmon Lang"></a>
+  <!-- <a href="https://korrektor.uz"><img src="https://github.com/uzinfocom-org/.github/blob/main/images/korrektor.png" width=48% alt="Korrektor"></a> -->
 </p>
