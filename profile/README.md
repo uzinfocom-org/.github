@@ -1,4 +1,4 @@
-![Open Source at Uzinfocom](https://github.com/uzinfocom-org/.github/blob/main/images/banners.png) 
+![Open Source at Uzinfocom](https://github.com/uzinfocom-org/.github/blob/main/images/banners.png)
 
 <p align="center"><h1 align="center">Open Source @ Uzinfocom Family</h1></p>
 
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://korrektor.uz"><img src="https://github.com/uzinfocom-org/.github/blob/main/images/korrektor.png" width=48% alt="Korrektor"></a>
+  <a href="https://kibertexnik.uz"><img src="https://github.com/uzinfocom-org/.github/blob/main/images/kibertexnik.png" width=48% alt="Kibertexnik"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/orgs/uzinfocom-org/discussions/1"><img src="https://github.com/uzinfocom-org/.github/blob/main/images/new.png" width=48% alt="Join us"></a>
 </p>
