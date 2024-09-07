@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://kibertexnik.uz"><img src="https://github.com/uzinfocom-org/.github/blob/main/images/kibertexnik.png" width=48% alt="Kibertexnik"></a>
+  <a href="https://kibertexnik.uz"><img src="https://github.com/uzinfocom-org/.github/blob/main/images/Kibertexnik.png" width=48% alt="Kibertexnik"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/orgs/uzinfocom-org/discussions/1"><img src="https://github.com/uzinfocom-org/.github/blob/main/images/new.png" width=48% alt="Join us"></a>
 </p>
