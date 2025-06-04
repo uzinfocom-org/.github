@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/xinux-org"><img src="https://github.com/uzinfocom-org/.github/blob/main/images/Xinux.png" width=48% alt="Xinux Community"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://cctld.uz"><img src="https://github.com/uzinfocom-org/.github/blob/main/images/CCTLD.png" width=48% alt="ccTLDuz Administration"></a>
+  <a href="https://floss.uz"><img src="https://github.com/uzinfocom-org/.github/blob/main/images/Floss.png" width=48% alt="Floss Uzbekistan"></a>
 </p>
 
 <p align="center">
