@@ -33,13 +33,6 @@ jobs:
           mkdir -p ./public/DOCS
           cp ./private/DOCS/* ./public/DOCS
 
-      - name: Temporary
-        working-directory: ./public
-        run: |
-          mv images IMAGES
-          mv profile PROFILE
-          mv license LICENSE
-
       - name: Commit and Push changes
         working-directory: ./public
         run: |
