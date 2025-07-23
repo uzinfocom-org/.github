@@ -1,0 +1,55 @@
+name: Update Public Documents
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clone private repository
+        uses: actions/checkout@v4
+        with:
+          path: private
+          repository: uzinfocom-org/.github-private
+
+      - name: Clone public repository
+        uses: actions/checkout@v4
+        with:
+          path: public
+          repository: uzinfocom-org/.github
+
+      - name: Replace old contents with new
+        run: |
+          rm -rf ./public/DOCS
+          mkdir -p ./public/DOCS
+          cp ./private/DOCS/* ./public/DOCS
+
+      - name: Commit and Push changes
+        working-directory: ./public
+        run: |
+          # sed -i 's/name:abc/name:xyz/g' some.md
+
+          echo Setting git configurations
+          git config --global user.email "support@oss.uzinfocom.uz"
+          git config --global user.name "Uzinfocom Assistant"
+
+          echo Tracking changes
+          git add .
+          [[ -z $(git status -uno --porcelain) ]] && echo "No updates detected, no need for push" && exit 0;
+
+          echo Committing changes to repo
+          git commit -m "Updating public documents"
+
+          echo Changing remote of upstream
+          git remote set-url origin https://uzhoven:${{ secrets.ASSIST_PAT }}@github.com/uzinfocom-org/.github.git
+
+          echo Pushing changes
+          git push origin main --force
