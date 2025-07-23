@@ -18,6 +18,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: private
+          token: ${{ secrets.ASSIST_PAT }}
           repository: uzinfocom-org/.github-private
 
       - name: Clone public repository
